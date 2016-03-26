@@ -1,0 +1,28 @@
+name: Diobox
+favicon: null
+layout_spectrum: 0.07651074812747538
+typography_spectrum: 0.5689150646794587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.44475229387171566
+  lightness: 0.9616029798053205
+  saturation: 0.6554701139684767
+  rhythmicContrast: 0.14601393230259418
+purpose: []
